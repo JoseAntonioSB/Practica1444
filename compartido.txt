@@ -1,0 +1,249 @@
+019-02-22 14:39:43,817 [183] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 7441f710-2f2b-4dd1-b16b-aa524d00405f
+2019-02-22 14:39:43,817 [91] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c6da10ac-9caa-41ce-b836-c99cd33aaeec
+2019-02-22 14:39:43,864 [19] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 0ff699a0-8d9a-4225-b49d-f3ac305be4b1
+2019-02-22 14:39:43,864 [119] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8843ffdf-3e4c-43be-8250-3719844f2859
+2019-02-22 14:39:43,974 [170] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ad0497ec-25e8-4d30-b133-b6180e28401c
+2019-02-22 14:39:44,083 [79] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id d7615881-3ff7-47c6-9ecd-1b65c64aecbc
+2019-02-22 14:39:44,083 [42] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4536bb5a-69b0-4082-afd2-d8f27b30acc8
+2019-02-22 14:39:44,114 [106] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 5b944993-4914-4115-9c11-630c6a65215a
+2019-02-22 14:39:44,130 [123] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4a0475ba-f697-4289-9646-e8676573fc19
+2019-02-22 14:39:44,161 [65] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 6e461155-1c1c-4a1c-a2b4-c55e812b4c2b
+2019-02-22 14:39:44,161 [114] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4d768d4d-e0ab-4a6e-8636-da0f23b00c76
+2019-02-22 14:39:44,192 [130] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id e02ceff1-feb6-40d2-8701-ea262004a243
+2019-02-22 14:39:44,192 [91] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 9997c178-e534-48bb-a4f4-63c86e00d465
+2019-02-22 14:39:44,333 [16] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 1e8d313b-7e19-4398-8cd0-69a42e7e7c6c
+2019-02-22 14:39:44,333 [75] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f612becf-0127-4906-9cd7-583f168b8d8a
+2019-02-22 14:39:44,380 [18] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id bf014426-061d-4678-a5f4-a0b5ed9d91d6
+2019-02-22 14:39:44,380 [170] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a39a3a60-0878-4f0e-819a-2546cffb6317
+2019-02-22 14:39:44,599 [147] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 5bc04fcb-6ed0-493d-b1cf-dadaeb9e9668
+2019-02-22 14:39:44,599 [76] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a6904efb-b8dc-43bc-9b64-d1844c1b4cb2
+2019-02-22 14:39:44,755 [62] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 9e2a6ab7-c89e-46b3-a4be-56df53c03282
+2019-02-22 14:39:45,224 [129] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 47604281-00c8-4a2c-b041-f67606746afe
+2019-02-22 14:39:45,349 [159] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 2b526dc1-a18d-4527-b1a9-d53d85d866a7
+2019-02-22 14:39:45,567 [133] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id e99d4295-54f9-4ab2-80e1-b02388012778
+2019-02-22 14:39:45,614 [126] DEBUG FileLogger [(null)] - DataContext.Add was included in the transaction with session id b3a56310-65b2-4afc-a32f-c8e3940ad961
+2019-02-22 14:39:45,630 [126] DEBUG FileLogger [(null)] - DataContext.Add was included in the transaction with session id b3a56310-65b2-4afc-a32f-c8e3940ad961
+2019-02-22 14:39:45,817 [141] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f0f2ef16-d2b3-4ebe-81a8-411666d36852 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2019-02-22 14:39:45,817 [183] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id fd2ef265-14ea-4cd6-aab1-77bef2597bfa
+2019-02-22 14:39:46,271 [125] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a073f03d-7d14-4447-83bc-89a7b9bf70f9
+2019-02-22 14:39:46,271 [178] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 752e3c58-505e-4baf-87dd-3ff1dfd69885
+2019-02-22 14:39:46,880 [106] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 86bf2c27-9f03-4d55-8515-2988f74b1741
+2019-02-22 14:39:46,880 [147] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a73167a2-a69e-4ebc-9d90-abfddb74b030
+2019-02-22 14:39:47,349 [133] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f4c81f5b-ce42-4c2e-8e38-019edbbaa3c7
+2019-02-22 14:39:47,349 [65] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ae6dcbc4-b952-4c8a-9268-1337a7aa2f0c
+2019-02-22 14:39:47,396 [170] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id d4c43dbc-931d-4176-befc-0ce7597c8887
+2019-02-22 14:39:47,396 [115] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 9d3a5312-a9e3-41a3-b025-0258ba728a04
+2019-02-22 14:39:47,521 [78] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 382647a0-89d9-4e91-91bb-d90159426c57
+2019-02-22 14:39:47,521 [179] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a7c0bfc3-9848-483d-9ed7-308ba885037a
+2019-02-22 14:39:47,677 [126] ERROR FileLogger [(null)] - Format: 
+2019-02-22 14:39:47,677 [126] INFO  FileLogger [(null)] - Sending email has been completed successfully
+2019-02-22 14:39:47,817 [91] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f670122d-58a2-45dc-9a96-1ea236c3b5c5
+2019-02-22 14:39:47,817 [23] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 620a7417-ff10-42ba-ae0a-c562888f5a34
+2019-02-22 14:39:47,864 [112] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 7e4feb73-edf5-4d6c-a714-9bcce0aa82f4
+2019-02-22 14:39:47,864 [111] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 1aacb27c-0dc3-421f-8098-e73f516e42d3
+2019-02-22 14:39:48,380 [147] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 62ec6409-440f-4ee1-bb2d-6243cad79250
+2019-02-22 14:39:48,380 [182] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 6b3a851f-787a-46d3-b51f-a62406e78c12
+2019-02-22 14:39:48,880 [160] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id bd37280a-06c4-4d38-acf3-de2d3a96bdba
+2019-02-22 14:39:48,880 [28] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f5c4aff7-e669-4c9c-8554-208fd8a1d761
+2019-02-22 14:39:48,927 [145] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 3ac4037b-0236-47e2-8254-f9fab64a6019
+2019-02-22 14:39:48,927 [148] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 278bc89b-1bda-4baa-8c23-453fb3bfcca7
+2019-02-22 14:39:51,537 [90] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a2c40aba-2832-474b-9dce-06b7422b174b
+2019-02-22 14:39:51,630 [76] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 2d67df8a-ec09-4f57-9ef2-473ba8ae157d
+2019-02-22 14:39:51,630 [186] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 20d96199-3700-41a7-8065-c39a07883097 YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+2019-02-22 14:39:52,320 [173] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id bb2f3bf8-af0c-4d09-b88b-7272bec3c82d
+2019-02-22 14:39:52,320 [97] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 79f6d80b-1700-472d-a823-7c3997a177a9
+2019-02-22 14:39:53,508 [96] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4d3eebfd-1a24-45e2-9579-87eb635b5a99
+2019-02-22 14:39:54,024 [112] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 11c6dbc5-a853-4403-90ed-5104facd0d96
+2019-02-22 14:39:54,055 [65] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id fbd35447-0cdd-4523-898c-8869c6bbead4
+2019-02-22 14:39:54,055 [182] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 0fe883bc-4d59-4d58-8e51-fddc42064472
+2019-02-22 14:39:54,086 [111] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 07e87f5d-027e-45c6-b1fa-5cee9337c164
+2019-02-22 14:39:54,086 [28] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 494a76ec-270f-4a15-bdeb-daf7f14a7efe
+2019-02-22 14:39:54,148 [111] INFO  FileLogger [(null)] - Try to get formats by filters params [formatType, idBusinessUnit, filters] [$Indirect_Price_Analysis, $7, $1, $1748504]
+2019-02-22 14:39:57,492 [16] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 22b6c5e8-a420-433a-b09d-d805a793dd0e
+2019-02-22 14:39:57,492 [100] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 68e82f78-3ea0-4d72-b319-293b3a691630
+2019-02-22 14:39:57,492 [100] INFO  FileLogger [(null)] - Change c9cf9516-dfa4-4231-bbfb-b6b8b8ca4d40 to status: Delivered user that change: 71873 
+2019-02-22 14:40:00,102 [100] DEBUG FileLogger [(null)] - Sending electronic TracebilityReceiptAcuse request to endpoint: 'http://10.54.32.54/api/api/Zapsd_mf_acusesit', '{"Vbeln":"7310757350", "Facuse":"20190222", "lang":"ES", "webkey":"2b97d4c8-1fb8-4715-8f1f-58623cd12c1a", "type":"Production"}'
+2019-02-22 14:40:00,149 [100] DEBUG FileLogger [(null)] - Validation response for token 7310757350 and date 22/02/2019 2:39:58 PM | response: '{"results":1}'
+2019-02-22 14:40:00,227 [90] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c1876844-ed5d-48e2-87f1-690ba993e0f6
+2019-02-22 14:40:00,242 [113] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 3116b47d-d9ef-4ce1-a2dd-60d8b3dc7068
+2019-02-22 14:40:02,477 [145] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id e7aacfff-f133-490d-8bac-66405c59abb8
+2019-02-22 14:40:02,477 [148] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f69d6296-b286-4c5e-85ae-45a72179ae11
+2019-02-22 14:40:02,805 [44] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id b1d56899-8c07-4e9e-9ac2-75bb988aa56a
+2019-02-22 14:40:03,383 [123] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 0637ac51-b1f3-448f-8fb9-1a41fb99a33c
+2019-02-22 14:40:03,383 [11] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8711697b-4281-4e40-a977-8d7aa007e239
+2019-02-22 14:40:04,133 [47] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ddee9174-89f8-4ea5-8756-eb82a8b01f72
+2019-02-22 14:40:04,133 [149] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8dbba240-23d7-4415-b90a-31e27b8299a2
+2019-02-22 14:40:04,899 [16] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id fc3ee3c7-8654-49ab-b273-962162c349c9
+2019-02-22 14:40:05,430 [147] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 0217d962-8c6b-47a1-b9be-4c31276b0aa5
+2019-02-22 14:40:05,430 [137] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 37b94c6d-3bc9-4767-80de-332f93605b8d
+2019-02-22 14:40:05,945 [23] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ca64846b-ea78-4689-8d60-a4a737a5cb27
+2019-02-22 14:40:06,461 [53] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 914b92b0-a187-4e94-8475-e04316e1a5de
+2019-02-22 14:40:06,461 [15] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c9834587-61dd-4e08-bd10-91656ae6174b
+2019-02-22 14:40:06,789 [134] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4caf426c-891e-4e09-a43d-86223386ea4b
+2019-02-22 14:40:06,789 [97] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 3ad3e2c4-904d-4a6e-b348-fe1f9381eead
+2019-02-22 14:40:06,992 [99] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id e2fd14ea-7089-43ba-9ee4-994d5243c8ab
+2019-02-22 14:40:07,070 [62] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ff4d920a-35f7-4017-b282-f5ef7a768264
+2019-02-22 14:40:07,258 [91] INFO  FileLogger [(null)] - Active directory proxy: ActiveDirectoryProxy
+2019-02-22 14:40:07,289 [91] DEBUG FileLogger [(null)] - SIPServerUrl http://10.54.32.54
+2019-02-22 14:40:07,305 [119] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 23c92e6b-20be-4647-b3df-0472c8f2efc2
+2019-02-22 14:40:07,305 [160] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c4810dcb-3050-49ad-b141-54df462cd384
+2019-02-22 14:40:07,336 [91] INFO  FileLogger [(null)] - HttpClient Response: {"authenticated":"True","error":"","username":"Comun Calidad Proceso","email":"ccalpro@imberacooling.com","givenName":"Comun","lastlogon":"16/02/2019 04:55:05 a.m.","LastPasswordSet":"31/12/2018 04:30:32 a.m.","DistinguishedName":"CN=Comun Calidad Proceso","BussinesUnit":"IMBERA","Country":"Mexico"}
+2019-02-22 14:40:07,461 [78] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id e29f0186-6037-44ef-8fe8-c71acb6b1904
+2019-02-22 14:40:07,820 [112] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 6f27626d-622c-4f42-be7d-728c2fe7e0a3
+2019-02-22 14:40:07,820 [183] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ac80c51f-fe42-4a37-b08f-e49cf883ae73
+2019-02-22 14:40:08,008 [65] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a1258345-3baa-4758-9cf4-0737f4746ed6
+2019-02-22 14:40:08,102 [57] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 0be09b5a-f41b-46cd-9657-d8bd7474f97d
+2019-02-22 14:40:08,164 [125] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 13124f15-5227-41cb-a306-4db17c7de16e
+2019-02-22 14:40:08,164 [179] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 17b0207d-17d1-4923-a128-68c3d0e9135b
+2019-02-22 14:40:08,227 [9] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 594eb326-42ca-4653-ac2b-7059213b7b64
+2019-02-22 14:40:08,242 [44] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a53be28a-4b54-4a92-8706-4bed981acaef
+2019-02-22 14:40:08,367 [141] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 2eb7bbe2-eb27-4620-b72b-e489d3874747
+2019-02-22 14:40:08,367 [147] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 482ae62c-45d7-4184-bcbe-595e0cc50396
+2019-02-22 14:40:08,617 [173] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id bcda3d13-9c54-490d-a20a-2f40be1ecad8
+2019-02-22 14:40:08,617 [107] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 85724387-b650-41f1-8a4a-0d5cf5689ab1
+2019-02-22 14:40:08,758 [79] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 7657f32e-676b-42b2-9d4b-f973a8d65905
+2019-02-22 14:40:08,789 [44] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 51fc88c2-833c-46d2-9624-5a9f973f1348
+2019-02-22 14:40:08,852 [48] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id d685faaa-0af2-4c84-817f-b2bf80284aab
+2019-02-22 14:40:08,852 [183] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a33de801-64bf-4a17-9d41-1257834a7689
+2019-02-22 14:40:08,867 [183] INFO  FileLogger [(null)] - Try to get formats by filters params [formatType, idBusinessUnit, filters] [$Specification_Deviation_Imbera, $4, ${"supplier_number":"5092441/","year":2019}]
+2019-02-22 14:40:10,570 [155] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id e9ce3748-19a5-4e15-95f2-d7dbe2781943
+2019-02-22 14:40:10,570 [100] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4cff6c12-458b-43cd-a25f-e2ef8014a1e6
+2019-02-22 14:40:11,039 [100] DEBUG FileLogger [(null)] - Validate indirect price analisys request to endpoint: 'http://10.54.32.54/api/api/Orderrequest', '{"Banfn":"12102198", "Werks":"4000", "webkey":"2b97d4c8-1fb8-4715-8f1f-58623cd12c1a", "type":"Production"}'
+2019-02-22 14:40:11,227 [143] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ad312fbe-7807-45cc-9bd7-93512727728c
+2019-02-22 14:40:11,227 [170] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 10ba0108-8da7-473c-a294-df79a1a85e0f
+2019-02-22 14:40:11,227 [96] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id fe3a6709-e325-4ead-966b-16040afb5318
+2019-02-22 14:40:11,961 [137] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 08dbe41c-8474-4cfb-950d-92e2497bf35a
+2019-02-22 14:40:11,961 [90] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c8d7884b-0052-41e9-b20d-2fcfacf0d37c
+2019-02-22 14:40:12,477 [138] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 30dca0e2-5756-4d60-8a79-e5af30b6fb6d
+2019-02-22 14:40:12,570 [108] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id cb03ddb5-1cf8-4872-a2c7-d435dc5e4ffc
+2019-02-22 14:40:12,570 [10] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id cb1f6115-4043-4508-ae16-b4003284660b
+2019-02-22 14:40:12,602 [103] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 9b12b8bd-0039-40e2-9954-53ee8ced70cb
+2019-02-22 14:40:12,602 [53] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8dc64ef0-0fd6-4f4d-a5d1-760dd1c04168
+2019-02-22 14:40:12,867 [161] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 37c66289-db8d-477a-8bab-50c89d36a489
+2019-02-22 14:40:12,914 [113] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8f256adc-f01a-4e77-8048-39c5e5fc5d26
+2019-02-22 14:40:12,914 [44] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4d74aaf6-e7c6-4758-9f6a-280673c00831
+2019-02-22 14:40:12,992 [76] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f993a9f3-88fd-4982-a7c8-6ef0c53205f3
+2019-02-22 14:40:13,180 [133] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 6e1f7e0e-9eb2-4315-9e7c-ed3a4407787d
+2019-02-22 14:40:13,461 [115] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 957f8d27-cb6b-43f5-b625-8cb2434fa0a6
+2019-02-22 14:40:13,461 [142] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 74197f88-a79f-4f05-8b59-ea8d15d57097
+2019-02-22 14:40:13,477 [142] INFO  FileLogger [(null)] - Try to get formats by filters params [formatType, idBusinessUnit, filters] [$Electronic_Traceability_Receipt_Accuse, $7, ${"description":"7310757350","year":"2019"}]
+2019-02-22 14:40:13,492 [111] INFO  FileLogger [(null)] - Try to get formats by filters params [formatType, idBusinessUnit, filters] [$Change_Request_Fersa, $18, $1, $272838]
+2019-02-22 14:40:14,133 [100] DEBUG FileLogger [(null)] - Validation response for token 12102198 | response: '{"results":[{"Banfn":"0012102198","Matnr":"","Txz01":"FILTRO MODELO: PT-250-FILQRO","Knttp":"F","Knttx":"Orden","Pstyp":"0","Ptext":"Normal","Menge":1.0,"Meins":"PZA","Preis":18487.0,"Waers":"MXP","Total":18487.0,"Afnam":"JPVM","Badat":"20190222","Lifnr":"0000017348","Name1":"FILTROS Y SERVICIOS DE MEXICO, SA D","Kostl":"","Aufnr":"000031099072","Sakto":"0007007015","Texto":" FILTRO MODELO: PT-250-FILQRO PARA SISTEMA DE BOMBEO ECODRY SOLICITA ISRAEL JIMENEZ COT # 24283"}]}'
+2019-02-22 14:40:15,274 [127] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 6677f05a-6605-43b0-ad7d-37c1fa446e05
+2019-02-22 14:40:16,039 [73] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id e53fc3c3-2b74-4ae4-b736-510316f08a09
+2019-02-22 14:40:16,039 [109] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 9eb61367-3309-43e4-9c66-37da349f9d9b
+2019-02-22 14:40:16,133 [10] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 5d5ba8f3-5cd0-443e-8e7a-8423ce39aca0
+2019-02-22 14:40:16,133 [91] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id bc664fd8-614b-44ef-8682-cd046ae339bc
+2019-02-22 14:40:17,149 [170] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f73fa393-8a55-40a6-b038-42b9006d8ccb
+2019-02-22 14:40:17,149 [161] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id aceedc1a-7e78-4f7d-ae27-4ec96de3aadc
+2019-02-22 14:40:17,727 [23] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 55afac7e-4749-410a-9f95-0f1f4576eaa0
+2019-02-22 14:40:17,727 [76] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id b9b60830-ddaf-4bb5-95c9-69a360111984
+2019-02-22 14:40:17,977 [133] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 3fb6fae7-5bec-45e5-b3e9-6aaba2db168a
+2019-02-22 14:40:17,977 [48] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 0c392c85-ceab-410f-90ec-ee78b7bc417e
+2019-02-22 14:40:18,008 [109] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 74f3d91c-7b3e-44c7-a83e-595dab4da0f2
+2019-02-22 14:40:18,430 [134] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 532d59e1-d8ed-438b-a392-419b6cecf8ab
+2019-02-22 14:40:18,430 [187] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id dd485cec-4131-4f4f-92a0-6a25553cc98c
+2019-02-22 14:40:18,821 [28] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 66a1f349-c33c-4245-8f96-0c6e38e0af40
+2019-02-22 14:40:19,180 [95] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4b5120ee-237e-4bbb-9700-553fbe78188a
+2019-02-22 14:40:19,180 [133] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f485f5f9-290c-4dec-9ebe-3ce4b24c2370
+2019-02-22 14:40:19,305 [48] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 146dc8c5-1515-4079-a0ae-ed5f44a6f977
+2019-02-22 14:40:19,305 [140] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8530c747-350e-40a0-b63c-7728d336395c
+2019-02-22 14:40:19,508 [134] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4d008bb2-2fa7-4ea8-a455-b2facfde5a56
+2019-02-22 14:40:19,508 [97] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 5f2879aa-225c-452d-8358-c983d1bd2b8c
+2019-02-22 14:40:19,649 [147] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 89c65f60-5731-48a1-9a7a-84f68f27e019
+2019-02-22 14:40:19,649 [46] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 93b72ad2-f823-4d43-b15f-22134ab2f9e4
+2019-02-22 14:40:19,680 [87] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 92a4e444-7ca0-4abe-bab2-098c94ac7c3b
+2019-02-22 14:40:19,680 [141] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c5756973-bc43-4650-9eff-09f0c2afd092
+2019-02-22 14:40:19,696 [11] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 32c5bbc4-20a3-4001-96b7-6f5bb47620ef
+2019-02-22 14:40:19,696 [119] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id fd2427fe-de26-477f-9324-01483e345071
+2019-02-22 14:40:19,711 [76] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8a66113c-6a7c-4999-b9c3-014a04d8fc2e
+2019-02-22 14:40:19,711 [140] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 9e8cc5dc-41b2-435c-8382-70d2bea088dc
+2019-02-22 14:40:19,758 [175] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 7a58061e-b629-4446-9c0f-59aacbec3d08
+2019-02-22 14:40:19,758 [106] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 42526ac5-1cab-41a4-a249-ab68dd3e73ab
+2019-02-22 14:40:19,789 [9] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 80ca964c-25dd-4cbc-83a1-96e0058d262b
+2019-02-22 14:40:19,789 [112] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 7da35994-409a-40da-b35b-5760b48b15e0
+2019-02-22 14:40:19,836 [126] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 6c4fcc31-1ee8-4c64-8176-18091d785e74
+2019-02-22 14:40:19,836 [147] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f8842ed5-9785-4275-a387-f47b70494825
+2019-02-22 14:40:20,008 [138] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f4763061-3a0b-4a2b-be43-d586286a1abe
+2019-02-22 14:40:20,008 [15] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 5b514d00-bf2f-4a23-a68b-7cfa06364e96
+2019-02-22 14:40:20,024 [117] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 7557e4d9-0aca-49a8-96f3-46f543d70b48
+2019-02-22 14:40:20,024 [19] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 55451079-8f35-44ab-9cdc-d6b44d8996cd
+2019-02-22 14:40:20,039 [108] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 1e7f1d34-4dbd-4aba-bb00-17c7dd0a1331
+2019-02-22 14:40:20,039 [107] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f860e588-b100-4c76-9eb5-be7a1cd99f4c
+2019-02-22 14:40:20,352 [161] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8da7c529-9175-47c9-b8eb-6297b475fcc6
+2019-02-22 14:40:20,352 [12] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 9852bd70-424d-432d-b783-df3fcde7c135
+2019-02-22 14:40:20,555 [23] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c1eb74cf-7d80-4be4-b00a-63672fdb4e65
+2019-02-22 14:40:20,555 [87] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c252f962-f86e-48cb-bae0-3bfe1bc0380a
+2019-02-22 14:40:20,867 [133] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 9a0537c1-5de9-4bb0-ac98-7b4a52b211a4
+2019-02-22 14:40:22,117 [91] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 6ec8f15a-3b8f-4b66-9670-e48f505d8d2f
+2019-02-22 14:40:22,164 [182] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 21ed9ffd-c542-4311-88a2-ef9da4521323
+2019-02-22 14:40:22,164 [18] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 712fc124-0d67-4a2f-8b12-b65eb27414ec
+2019-02-22 14:40:22,463 [92] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 030e7efa-537e-414f-bb59-5460de83aa46
+2019-02-22 14:40:22,463 [129] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8a506df5-18c5-4a68-979e-05cb32a78efc
+2019-02-22 14:40:22,463 [113] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ec0bfc18-0277-46fa-8698-1791868b3c99
+2019-02-22 14:40:22,478 [129] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a9974e5a-1894-4f3b-9eb8-1f51a8ab2d71
+2019-02-22 14:40:23,010 [75] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 62b4de26-dff2-445d-9913-7846daec1ce0
+2019-02-22 14:40:23,010 [121] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id cec185ae-f5f9-44b6-a68f-7aa27e6ec80b
+2019-02-22 14:40:23,056 [148] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a587260d-bfa4-45ed-be80-a8f6cfda3cf7
+2019-02-22 14:40:23,525 [103] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id da2e37c6-105b-430e-9a18-4f051d05db20
+2019-02-22 14:40:23,556 [123] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 1ec9fd28-882d-44a3-8ccd-3eb0288cca74
+2019-02-22 14:40:23,556 [155] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQwith session id 2d5eaacf-f819-4177-881c-e0cacb746188
+2019-02-22 14:40:23,556 [155] INFO  FileLogger [(null)] - Change d23f76b7-72f8-496e-a08e-cd1d7b9f767a to status: WaitingAuthorization_IndirectResponsible user that change: 1748504 
+2019-02-22 14:40:26,213 [137] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 71be8084-3537-4e2d-904f-c3ba3084cff7
+2019-02-22 14:40:26,213 [125] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 5cdfa583-4ab9-4c70-91b1-6396a067235c
+2019-02-22 14:40:26,228 [125] INFO  FileLogger [(null)] - Try to get formats by filters params [formatType, idBusinessUnit, filters] [$Electronic_Traceability_Receipt_Accuse, $7, ${"description":"7310757349","year":"2019"}]
+2019-02-22 14:40:27,697 [155] DEBUG FileLogger [(null)] - DataContext.Add was included in the transaction with session id 2d5eaacf-f819-4177-881c-e0cacb746188
+2019-02-22 14:40:27,728 [155] DEBUG FileLogger [(null)] - DataContext.Add was included in the transaction with session id 2d5eaacf-f819-4177-881c-e0cacb746188
+2019-02-22 14:40:28,119 [90] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 277e4589-0ab1-43eb-8fa9-8aa03e7c4ee4
+2019-02-22 14:40:28,119 [173] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 09cea7f2-120c-4281-9473-4e81d3fdb375
+2019-02-22 14:40:28,963 [18] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 41c0b2e8-c505-41d9-9acd-0e230b64180e
+2019-02-22 14:40:28,963 [78] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ee0e94fe-b970-4399-ad8b-9b69e5f83a78
+2019-02-22 14:40:29,103 [155] ERROR FileLogger [(null)] - Format: 
+2019-02-22 14:40:29,103 [155] INFO  FileLogger [(null)] - Sending email has been completed successfully
+2019-02-22 14:40:29,260 [62] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 83c24784-e53e-49fc-820a-92dfe06ac7c8
+2019-02-22 14:40:29,260 [130] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a6a94bc9-dc5b-4ef5-8e22-623fe6c2f87a
+2019-02-22 14:40:31,244 [11] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 36eaaa73-272f-493e-9594-4a9624c6b331
+2019-02-22 14:40:31,338 [182] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id cee9f368-432e-4c8f-8797-36bd73787995
+2019-02-22 14:40:31,510 [16] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 87321f8d-79f7-4eab-beb3-046b56cc13af
+2019-02-22 14:40:31,525 [16] ERROR FileLogger [(null)] - An error occurs where registering the last visit date time for business unit 4a96f38f-da4c-4797-bf5b-35f65dbb5aa2
+2019-02-22 14:40:31,697 [77] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id cdb40326-b301-440b-a501-d89a203162bb
+2019-02-22 14:40:31,728 [161] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 6d591e0f-bff4-4cfb-8a61-ae0be2636340
+2019-02-22 14:40:31,744 [92] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 7a7cd33b-1bd5-4772-a297-7f18d6673517
+2019-02-22 14:40:31,900 [62] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 89164239-1e91-4f7b-ac0b-d6541e65edde
+2019-02-22 14:40:32,260 [47] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8da632b1-304c-46b4-8331-c189dd2c89f3
+2019-02-22 14:40:32,260 [15] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ab156fa1-9e23-40f4-9551-187a002b5a62
+2019-02-22 14:40:32,400 [175] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c54a996b-441a-4bb7-b550-7071ef32bb47
+2019-02-22 14:40:32,400 [182] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 70279947-87c9-44ae-a471-161bc9168c6a
+2019-02-22 14:40:33,937 [138] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 5fef4879-634f-4a17-8d02-0e92d3d08087
+2019-02-22 14:40:34,140 [76] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id de9ad5cf-9f5b-4b41-ac83-2ed55ff8cf86
+2019-02-22 14:40:34,140 [47] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c27bfb77-3665-42eb-85e4-ebe4b92e5bb0
+2019-02-22 14:40:34,187 [75] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a8610ab9-61cc-4a96-8f89-25a1caac4034
+2019-02-22 14:40:34,187 [53] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 7b97c2d2-d441-41c5-bc06-8f3aedadcace
+2019-02-22 14:40:34,969 [178] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 509e6cd1-36ba-42f0-93bc-00290009d80d
+2019-02-22 14:40:35,818 [78] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 377d6910-f0d9-4390-bce8-0dc6b892385e
+2019-02-22 14:40:35,818 [155] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 9a1d9c92-ad0a-48c0-8d68-de43e254609f
+2019-02-22 14:40:35,898 [141] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id eee0c757-e7cb-45ec-b6d2-2b554de0b5bf
+2019-02-22 14:40:35,961 [62] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id ebb2aeb7-7d99-4bfb-88cb-063b3953252e
+2019-02-22 14:40:36,055 [106] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 7bdbbd60-d282-4c32-a6ee-65aab57cb825
+2019-02-22 14:40:36,055 [143] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 3e6432df-a3a1-4b89-8f90-453bd3f99318
+2019-02-22 14:40:36,117 [143] INFO  FileLogger [(null)] - Try to get formats by filters params [formatType, idBusinessUnit, filters] [$Indirect_Price_Analysis, $7, $1, $1748504]
+2019-02-22 14:40:36,336 [115] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id b7df426b-4ccd-44ee-b102-f9ade7d82901
+2019-02-22 14:40:36,477 [18] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 99728783-0f91-4182-97f7-546589db2971
+2019-02-22 14:40:36,508 [159] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id e425d124-46ff-4254-8149-4aead1a20b4f
+2019-02-22 14:40:36,555 [89] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 31030db4-e5c4-42e6-b8ae-b6aedae8e18f
+2019-02-22 14:40:36,664 [73] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f0025a53-dc80-44d2-92ef-5fc5967c933d
+2019-02-22 14:40:36,664 [138] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id d9ddc618-29d7-49c8-8427-bcae79b65bac
+2019-02-22 14:40:37,164 [111] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id d9db2e25-f709-4532-afd8-a1344eccbb89
+2019-02-22 14:40:37,195 [117] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 8c023cfa-9353-4fdf-83d8-5b40b26909ac
+2019-02-22 14:40:37,195 [106] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 73e83749-5028-4acc-8348-9fdaffcc9d5e
+2019-02-22 14:40:38,994 [174] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4a42675b-2e8c-4d66-b0d6-8f9d41d8813e
+2019-02-22 14:40:38,994 [179] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 520ff899-b433-471c-b15b-30509de7a43a
+2019-02-22 14:40:39,572 [160] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c3162851-e2c1-4aec-b399-6bbd4e489dc8
+2019-02-22 14:40:39,572 [115] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 50217440-59d1-40c3-95d1-adb53a428306
+2019-02-22 14:40:40,134 [9] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id df69a00b-b320-4a21-b5e7-5d3d38cc9d4f
+2019-02-22 14:40:40,134 [87] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 5d195996-134b-4600-9edb-e72a608caab5
+2019-02-22 14:40:40,213 [129] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 62a178a7-677e-4c4a-8dee-ccfac58446b4
+2019-02-22 14:40:40,275 [137] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id c7742468-91bc-4944-aaac-81d0f48968b1
+2019-02-22 14:40:40,275 [183] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 819fb7e0-c093-419d-b6d1-77022ed3f481
+2019-02-22 14:40:40,900 [137] INFO  FileLogger [(null)] - Try to get formats by filters params [formatType, idBusinessUnit, filters] [$Change_Request_Fersa, $18, $1, $272838]
+2019-02-22 14:40:41,697 [16] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id b69df59c-7cd0-4030-b94a-5b7c2f19621a
