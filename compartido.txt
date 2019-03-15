@@ -23,7 +23,7 @@
 2019-02-22 14:39:45,567 [133] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id e99d4295-54f9-4ab2-80e1-b02388012778
 2019-02-22 14:39:45,614 [126] DEBUG FileLogger [(null)] - DataContext.Add was included in the transaction with session id b3a56310-65b2-4afc-a32f-c8e3940ad961
 2019-02-22 14:39:45,630 [126] DEBUG FileLogger [(null)] - DataContext.Add was included in the transaction with session id b3a56310-65b2-4afc-a32f-c8e3940ad961
-2019-02-22 14:39:45,817 [141] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f0f2ef16-d2b3-4ebe-81a8-411666d36852 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2019-02-22 14:39:45,817 [141] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id f0f2ef16-d2b3-4ebe-81a8-411666d36852 DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 2019-02-22 14:39:45,817 [183] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id fd2ef265-14ea-4cd6-aab1-77bef2597bfa
 2019-02-22 14:39:46,271 [125] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a073f03d-7d14-4447-83bc-89a7b9bf70f9
 2019-02-22 14:39:46,271 [178] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 752e3c58-505e-4baf-87dd-3ff1dfd69885
@@ -49,7 +49,7 @@
 2019-02-22 14:39:48,927 [148] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 278bc89b-1bda-4baa-8c23-453fb3bfcca7
 2019-02-22 14:39:51,537 [90] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a2c40aba-2832-474b-9dce-06b7422b174b
 2019-02-22 14:39:51,630 [76] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 2d67df8a-ec09-4f57-9ef2-473ba8ae157d
-2019-02-22 14:39:51,630 [186] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 20d96199-3700-41a7-8065-c39a07883097 YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+2019-02-22 14:39:51,630 [186] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 20d96199-3700-41a7-8065-c39a07883097 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 2019-02-22 14:39:52,320 [173] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id bb2f3bf8-af0c-4d09-b88b-7272bec3c82d
 2019-02-22 14:39:52,320 [97] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 79f6d80b-1700-472d-a823-7c3997a177a9
 2019-02-22 14:39:53,508 [96] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 4d3eebfd-1a24-45e2-9579-87eb635b5a99
@@ -187,7 +187,7 @@
 2019-02-22 14:40:23,056 [148] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id a587260d-bfa4-45ed-be80-a8f6cfda3cf7
 2019-02-22 14:40:23,525 [103] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id da2e37c6-105b-430e-9a18-4f051d05db20
 2019-02-22 14:40:23,556 [123] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 1ec9fd28-882d-44a3-8ccd-3eb0288cca74
-2019-02-22 14:40:23,556 [155] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQwith session id 2d5eaacf-f819-4177-881c-e0cacb746188
+2019-02-22 14:40:23,556 [155] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT with session id 2d5eaacf-f819-4177-881c-e0cacb746188
 2019-02-22 14:40:23,556 [155] INFO  FileLogger [(null)] - Change d23f76b7-72f8-496e-a08e-cd1d7b9f767a to status: WaitingAuthorization_IndirectResponsible user that change: 1748504 
 2019-02-22 14:40:26,213 [137] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 71be8084-3537-4e2d-904f-c3ba3084cff7
 2019-02-22 14:40:26,213 [125] DEBUG FileLogger [(null)] - Creating HibernateTransactionManager with session id 5cdfa583-4ab9-4c70-91b1-6396a067235c
